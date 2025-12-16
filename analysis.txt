@@ -1,1 +1,10 @@
+In this analysis, I explored the Iris dataset using basic data visualization techniques.
+I examined the relationship between sepal length and petal length using a scatter plot.
+
+The scatter plot shows a clear positive correlation between the two variables, meaning
+that as sepal length increases, petal length also tends to increase.
+The points are not randomly distributed, which suggests a strong relationship.
+
+This visualization helps in understanding how different features in the dataset
+are related to each other.
 
